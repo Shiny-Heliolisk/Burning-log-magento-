@@ -1,0 +1,9 @@
+<div class="sub-middle">
+<div data-role="collapsible"><span class="accordion" data-role="trigger">Why Burning Log?</span></div>
+<ul data-role="content">
+<li><a href="#">About us</a></li>
+<li><a href="#">All products</a></li>
+<li><a href="#">Catalogues</a></li>
+<li><a href="#">Contact us</a></li>
+</ul>
+</div>

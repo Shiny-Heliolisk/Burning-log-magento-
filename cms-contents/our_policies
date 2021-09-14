@@ -1,0 +1,9 @@
+<div class="sub-middle">
+<div data-role="collapsible"><span class="accordion" data-role="trigger">Our policies</span></div>
+<ul data-role="content">
+<li><a href="#">Terms and conditions</a></li>
+<li><a href="#">Return policy</a></li>
+<li><a href="#">Delivery and pick up policy</a></li>
+<li><a href="#">Privacy policy</a></li>
+</ul>
+</div>
